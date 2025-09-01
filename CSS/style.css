@@ -1,0 +1,54 @@
+body {
+    font-family:'Helvetica Neue', Arial, sans-serif;
+    background-color: #f7cbf5;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+.business-card {
+    width: 450px;
+    padding: 40px;
+    border: 1px solid #6464645d;
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.184);
+    text-align: center;
+}
+.card-name {
+    font-size: 2rem;
+    color: #2a3643;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.card-desc {
+    font-size: 1.1rem;
+    font-weight: 300;  
+    margin-top: 0;
+    color:#7f8c8d;
+    margin-bottom: 20px;
+}
+.card-divider {
+    border: none;
+    height: 1px;
+    background-color: #dddddd;
+    margin: 0 auto 20px;
+    width: 80%;
+}
+.card-contact {
+    font-size: 1rem;
+    color: #334150;
+    margin-bottom: 10px;
+}
+.card-contact a {
+    text-decoration: none;
+    color: #327fbe;
+    transition: color 0.4s;
+    display: inline-block;
+}
+.card-contact a:hover {
+    color: #0099ff;
+}
