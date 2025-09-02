@@ -15,4 +15,4 @@ Abra o arquivo `index.html` em seu navegador.
 - Design responsivo básico
 
 ## ✨ Autor
-Projeto desenvolvido por **Gabrieli Gardini Fernandes**, estudante do **PROA**.
+Projeto desenvolvido por Gabrieli Gardini Fernandes, estudante do PROA.
